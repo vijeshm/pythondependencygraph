@@ -3,9 +3,9 @@
 
 ##The Python Module Network
 
-![networkx module](https://github.com/vijeshm/pythondependencygraph/blob/master/sample/networkx_modules.png)
+![networkx module](https://github.com/vijeshm/pythondependencygraph/blob/master/sample/networkx_modules.png?raw=true)
 
-![dependencies between commonly used modules](https://github.com/vijeshm/pythondependencygraph/blob/master/sample/entire_modules.png)
+![dependencies between commonly used modules](https://github.com/vijeshm/pythondependencygraph/blob/master/sample/entire_modules.png?raw=true)
 
 Importing a module in Python! Hmmm.. one of the easiest tasks around, eh? Not so fast, whats going on back there? Is the module importing any other module in turn? Well, sometimes yeah. This behavior propagates through a chain of imports. And whats the best way to model the scenario? Thats right, you guessed it! A Graph. A directed one to be more precise.
 
