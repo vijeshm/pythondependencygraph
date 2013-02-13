@@ -7,6 +7,14 @@
 
 ![dependencies between commonly used modules](https://github.com/vijeshm/pythondependencygraph/blob/master/sample/entire_modules.png?raw=true)
 
+![nltk module](https://github.com/vijeshm/pythondependencygraph/blob/master/sample/nltk.png?raw=true)
+
+![numpy module](https://github.com/vijeshm/pythondependencygraph/blob/master/sample/numpy.png?raw=true)
+
+![simplecv module](https://github.com/vijeshm/pythondependencygraph/blob/master/sample/simplecv.png?raw=true)
+
+![urllib2 module](https://github.com/vijeshm/pythondependencygraph/blob/master/sample/urllib2.png?raw=true)
+
 Importing a module in Python! Hmmm.. one of the easiest tasks around, eh? Not so fast, whats going on back there? Is the module importing any other module in turn? Well, sometimes yeah. This behavior propagates through a chain of imports. And whats the best way to model the scenario? Thats right, you guessed it! A Graph. A directed one to be more precise.
 
 Well, what if I somehow magically gave you the import graph to play with? What'll you do with it?

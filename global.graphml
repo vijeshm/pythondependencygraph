@@ -1,3 +1,1558 @@
 <?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <graph edgedefault="directed" />
+  <graph edgedefault="directed">
+    <node id="networkx.drawing.nx_pylab" />
+    <node id="matplotlib._tri" />
+    <node id="IPython.core.error" />
+    <node id="numpy.core.info" />
+    <node id="matplotlib.artist" />
+    <node id="networkx.classes" />
+    <node id="scipy.lib" />
+    <node id="gc" />
+    <node id="pty" />
+    <node id="distutils.sysconfig" />
+    <node id="matplotlib.axes" />
+    <node id="networkx.generators.threshold" />
+    <node id="networkx.algorithms.components.strongly_connected" />
+    <node id="scipy.optimize.slsqp" />
+    <node id="pprint" />
+    <node id="scipy.sparse.linalg.isolve.iterative" />
+    <node id="matplotlib.axis" />
+    <node id="scipy.optimize.minpack2" />
+    <node id="numpy.core.umath" />
+    <node id="networkx.generators.degree_seq" />
+    <node id="networkx.generators.bipartite" />
+    <node id="networkx.algorithms.components.biconnected" />
+    <node id="string" />
+    <node id="SocketServer" />
+    <node id="scipy.special.orthogonal_eval" />
+    <node id="numpy.lib.arraysetops" />
+    <node id="encodings.utf_8" />
+    <node id="matplotlib.pylab" />
+    <node id="scipy.cluster.vq" />
+    <node id="matplotlib._path" />
+    <node id="scipy.stats.stats" />
+    <node id="networkx.algorithms.matching" />
+    <node id="networkx.algorithms.shortest_paths.weighted" />
+    <node id="numpy.core.machar" />
+    <node id="networkx.classes.graph" />
+    <node id="PIL.ImageFont" />
+    <node id="_dia" />
+    <node id="scipy.ndimage.fourier" />
+    <node id="networkx.relabel" />
+    <node id="IPython.external.argparse" />
+    <node id="scipy.linalg.fblas" />
+    <node id="IPython.utils.pickleshare" />
+    <node id="cmd" />
+    <node id="IPython.core.debugger" />
+    <node id="IPython.core.displayhook" />
+    <node id="numpy.ma.extras" />
+    <node id="numpy.fft.fftpack_lite" />
+    <node id="networkx.utils.random_sequence" />
+    <node id="shlex" />
+    <node id="networkx.generators.geometric" />
+    <node id="IPython.config" />
+    <node id="IPython.core.ultratb" />
+    <node id="matplotlib.afm" />
+    <node id="scipy.ndimage" />
+    <node id="dis" />
+    <node id="networkx.algorithms.flow" />
+    <node id="scipy.sparse.linalg.dsolve.linsolve" />
+    <node id="zlib" />
+    <node id="networkx.external.decorator._decorator" />
+    <node id="IPython.external.simplegeneric" />
+    <node id="networkx.generators.hybrid" />
+    <node id="networkx.algorithms.vitality" />
+    <node id="pygame.overlay" />
+    <node id="IPython.core.excolors" />
+    <node id="IPython.external.Itpl._Itpl" />
+    <node id="abc" />
+    <node id="IPython.core.displaypub" />
+    <node id="bdb" />
+    <node id="scipy.ndimage.filters" />
+    <node id="numpy.lib.npyio" />
+    <node id="scipy.integrate.quadpack" />
+    <node id="numpy.lib._compiled_base" />
+    <node id="new" />
+    <node id="scipy.sparse.linalg.dsolve" />
+    <node id="pygame.threads" />
+    <node id="numpy.fft.helper" />
+    <node id="xml" />
+    <node id="IPython.core.alias" />
+    <node id="inspect" />
+    <node id="matplotlib.rcsetup" />
+    <node id="optparse" />
+    <node id="unittest.suite" />
+    <node id="PIL.Image" />
+    <node id="matplotlib" />
+    <node id="matplotlib.transforms" />
+    <node id="ImagePalette" />
+    <node id="scipy.linalg.decomp" />
+    <node id="codecs" />
+    <node id="matplotlib.backends.backend_tkagg" />
+    <node id="IPython.core.shadowns" />
+    <node id="scipy.linalg.decomp_cholesky" />
+    <node id="scipy.special.orthogonal" />
+    <node id="matplotlib.container" />
+    <node id="scipy.optimize.tnc" />
+    <node id="StringIO" />
+    <node id="pygame.pixelarray" />
+    <node id="weakref" />
+    <node id="numpy.core._internal" />
+    <node id="doctest" />
+    <node id="networkx.algorithms.components.weakly_connected" />
+    <node id="networkx.algorithms.clique" />
+    <node id="numpy.oldnumeric.array_printer" />
+    <node id="base64" />
+    <node id="_sre" />
+    <node id="matplotlib.finance" />
+    <node id="PIL.ImagePalette" />
+    <node id="numpy.dual" />
+    <node id="IPython.utils.autoattr" />
+    <node id="sqlite3.dbapi2" />
+    <node id="IPython" />
+    <node id="pygame.surface" />
+    <node id="networkx.utils" />
+    <node id="select" />
+    <node id="IPython.core.display_trap" />
+    <node id="numpy.lib.financial" />
+    <node id="scipy.linalg.decomp_qr" />
+    <node id="pygame.compat" />
+    <node id="matplotlib.collections" />
+    <node id="binascii" />
+    <node id="networkx.algorithms.euler" />
+    <node id="networkx.algorithms.centrality.betweenness_subset" />
+    <node id="IPython.core.logger" />
+    <node id="scipy.stats.kde" />
+    <node id="tokenize" />
+    <node id="SimpleCV.Features.Detection" />
+    <node id="networkx.algorithms.bipartite.centrality" />
+    <node id="networkx.readwrite.adjlist" />
+    <node id="scipy.optimize.optimize" />
+    <node id="cPickle" />
+    <node id="numpy.polynomial.hermite_e" />
+    <node id="matplotlib.tri.triangulation" />
+    <node id="scipy.misc.doccer" />
+    <node id="networkx.readwrite.leda" />
+    <node id="numpy.testing.utils" />
+    <node id="matplotlib.gridspec" />
+    <node id="numpy.compat" />
+    <node id="numpy.core.fromnumeric" />
+    <node id="unicodedata" />
+    <node id="numpy.ctypeslib" />
+    <node id="IPython.core.page" />
+    <node id="networkx.algorithms.graphical" />
+    <node id="IPython.utils.process" />
+    <node id="scipy.special.specfun" />
+    <node id="networkx.algorithms.isomorphism.isomorph" />
+    <node id="networkx.generators.classic" />
+    <node id="encodings.aliases" />
+    <node id="fnmatch" />
+    <node id="sre_parse" />
+    <node id="scipy.linalg.blas" />
+    <node id="pickle" />
+    <node id="networkx.classes.multidigraph" />
+    <node id="matplotlib.texmanager" />
+    <node id="scipy.interpolate.polyint" />
+    <node id="numpy.lib.polynomial" />
+    <node id="networkx.utils.rcm" />
+    <node id="numbers" />
+    <node id="scipy.sparse.sparsetools" />
+    <node id="scipy.sparse.linalg.isolve.utils" />
+    <node id="numpy.core.records" />
+    <node id="networkx.algorithms.cluster" />
+    <node id="scipy.spatial.qhull" />
+    <node id="scipy.sparse.compressed" />
+    <node id="_csgraph" />
+    <node id="scipy.sparse.linalg.dsolve.umfpack._umfpack" />
+    <node id="xml.etree.ElementPath" />
+    <node id="IPython.core.history" />
+    <node id="numpy.core.numeric" />
+    <node id="pygame.draw" />
+    <node id="matplotlib.delaunay.interpolate" />
+    <node id="IPython.external.decorator" />
+    <node id="IPython.utils.ipstruct" />
+    <node id="scipy.sparse.sparsetools.dia" />
+    <node id="scipy.spatial" />
+    <node id="matplotlib._cm" />
+    <node id="networkx.algorithms.centrality.betweenness" />
+    <node id="networkx.algorithms.isomorphism.isomorphvf2" />
+    <node id="networkx.classes.function" />
+    <node id="scipy.linalg.misc" />
+    <node id="IPython.config.application" />
+    <node id="numpy.lib.utils" />
+    <node id="networkx.algorithms.community" />
+    <node id="networkx.release" />
+    <node id="scipy.interpolate.fitpack" />
+    <node id="codeop" />
+    <node id="numpy.lib.arrayterator" />
+    <node id="IPython.utils._process_posix" />
+    <node id="types" />
+    <node id="argparse" />
+    <node id="scipy.linalg.calc_lwork" />
+    <node id="__main__.Top" />
+    <node id="matplotlib._delaunay" />
+    <node id="scipy.interpolate.dfitpack" />
+    <node id="scipy.interpolate" />
+    <node id="matplotlib._mathtext_data" />
+    <node id="IPython.external.pexpect" />
+    <node id="networkx.utils.decorators" />
+    <node id="matplotlib.tight_bbox" />
+    <node id="matplotlib.dviread" />
+    <node id="networkx.algorithms.bipartite.projection" />
+    <node id="scipy.optimize._zeros" />
+    <node id="scipy.sparse.linalg.interface" />
+    <node id="scipy.__config__" />
+    <node id="tty" />
+    <node id="scipy.stats.mvn" />
+    <node id="functools" />
+    <node id="matplotlib.colorbar" />
+    <node id="scipy.sparse.lil" />
+    <node id="IPython.frontend.terminal.interactiveshell" />
+    <node id="numpy.core.numerictypes" />
+    <node id="numpy.polynomial.legendre" />
+    <node id="distutils.dep_util" />
+    <node id="uuid" />
+    <node id="numpy.matrixlib.defmatrix" />
+    <node id="matplotlib.units" />
+    <node id="tempfile" />
+    <node id="scipy.stats.distributions" />
+    <node id="scipy.sparse.csgraph" />
+    <node id="IPython.config.configurable" />
+    <node id="imp" />
+    <node id="networkx.algorithms.centrality.communicability_alg" />
+    <node id="scipy.optimize.moduleTNC" />
+    <node id="matplotlib.text" />
+    <node id="networkx.drawing.layout" />
+    <node id="scipy.sparse.dia" />
+    <node id="scipy.linalg._flinalg" />
+    <node id="pygame" />
+    <node id="numpy.core.scalarmath" />
+    <node id="pygraphviz.tests.test" />
+    <node id="pygame.rect" />
+    <node id="numpy.linalg.info" />
+    <node id="_bsr" />
+    <node id="scipy.optimize.linesearch" />
+    <node id="unittest.util" />
+    <node id="pygame.version" />
+    <node id="networkx.algorithms.shortest_paths.astar" />
+    <node id="matplotlib.figure" />
+    <node id="networkx.external" />
+    <node id="scipy.integrate" />
+    <node id="PIL.ImageColor" />
+    <node id="matplotlib.backends.windowing" />
+    <node id="IPython.frontend.terminal.ipapp" />
+    <node id="csv" />
+    <node id="scipy.cluster.hierarchy" />
+    <node id="decimal" />
+    <node id="networkx.external.decorator" />
+    <node id="scipy.linalg.lapack" />
+    <node id="numpy.lib._datasource" />
+    <node id="matplotlib.lines" />
+    <node id="networkx.algorithms.shortest_paths" />
+    <node id="token" />
+    <node id="networkx.drawing.nx_agraph" />
+    <node id="IPython.utils.doctestreload" />
+    <node id="xml.sax.xmlreader" />
+    <node id="IPython.core.pylabtools" />
+    <node id="SimpleCV.Segmentation" />
+    <node id="cStringIO" />
+    <node id="networkx.readwrite.graphml" />
+    <node id="numpy.polynomial" />
+    <node id="pygame._numpysndarray" />
+    <node id="numpy.add_newdocs" />
+    <node id="scipy.interpolate.fitpack2" />
+    <node id="networkx.algorithms.centrality.eigenvector" />
+    <node id="matplotlib.pyplot" />
+    <node id="encodings" />
+    <node id="networkx.algorithms.shortest_paths.dense" />
+    <node id="matplotlib.backends.backend_agg" />
+    <node id="networkx.generators" />
+    <node id="IPython.core.interactiveshell" />
+    <node id="scipy.interpolate.rbf" />
+    <node id="_tkinter" />
+    <node id="IPython.core.crashhandler" />
+    <node id="IPython.utils" />
+    <node id="SimpleCV.base" />
+    <node id="re" />
+    <node id="scipy.cluster._hierarchy_wrap" />
+    <node id="scipy.sparse.linalg.eigen" />
+    <node id="networkx.generators.ego" />
+    <node id="matplotlib.backends" />
+    <node id="dateutil.relativedelta" />
+    <node id="math" />
+    <node id="Tkinter" />
+    <node id="ast" />
+    <node id="pygame.event" />
+    <node id="scipy.stats.mstats_extras" />
+    <node id="numpy.lib.ufunclike" />
+    <node id="pygame.base" />
+    <node id="networkx.linalg.spectrum" />
+    <node id="scipy.optimize.zeros" />
+    <node id="sys" />
+    <node id="logging" />
+    <node id="thread" />
+    <node id="networkx.algorithms.richclub" />
+    <node id="traceback" />
+    <node id="networkx.algorithms.distance_measures" />
+    <node id="IPython.core.builtin_trap" />
+    <node id="networkx.algorithms.assortativity" />
+    <node id="networkx.algorithms.assortativity.mixing" />
+    <node id="scipy.stats" />
+    <node id="scipy.sparse.linalg.eigen.arpack.arpack" />
+    <node id="scipy.linalg.cblas" />
+    <node id="numpy.random" />
+    <node id="IPython.core.plugin" />
+    <node id="IPython.utils.coloransi" />
+    <node id="numpy.lib.twodim_base" />
+    <node id="scipy.sparse.construct" />
+    <node id="networkx.generators.random_graphs" />
+    <node id="FileDialog" />
+    <node id="distutils.util" />
+    <node id="array" />
+    <node id="matplotlib.widgets" />
+    <node id="scipy.optimize._slsqp" />
+    <node id="pexpect" />
+    <node id="posixpath" />
+    <node id="ctypes.util" />
+    <node id="IPython.core.splitinput" />
+    <node id="numpy.core.arrayprint" />
+    <node id="IPython.utils._sysinfo" />
+    <node id="matplotlib.mathtext" />
+    <node id="scipy.sparse.linalg.dsolve._superlu" />
+    <node id="networkx.algorithms.swap" />
+    <node id="numpy.lib.scimath" />
+    <node id="scipy.optimize._nnls" />
+    <node id="scipy.sparse.sparsetools.coo" />
+    <node id="scipy.stats.vonmises_cython" />
+    <node id="matplotlib.projections.geo" />
+    <node id="networkx.readwrite" />
+    <node id="scipy.spatial.distance" />
+    <node id="networkx.generators.directed" />
+    <node id="numpy.__config__" />
+    <node id="pygame.cursors" />
+    <node id="networkx.readwrite.sparsegraph6" />
+    <node id="scipy.sparse.sputils" />
+    <node id="numpy.lib.stride_tricks" />
+    <node id="copy" />
+    <node id="networkx.tests.test" />
+    <node id="hashlib" />
+    <node id="scipy.misc" />
+    <node id="keyword" />
+    <node id="xml.sax.saxutils" />
+    <node id="networkx.utils.misc" />
+    <node id="networkx.algorithms.block" />
+    <node id="scipy.sparse.data" />
+    <node id="matplotlib.fontconfig_pattern" />
+    <node id="scipy.linalg.basic" />
+    <node id="IPython.utils.generics" />
+    <node id="networkx.generators.line" />
+    <node id="pygame.font" />
+    <node id="networkx.algorithms.bipartite.cluster" />
+    <node id="networkx.drawing" />
+    <node id="_hashlib" />
+    <node id="numpy.lib.shape_base" />
+    <node id="getpass" />
+    <node id="scipy.interpolate.interpolate" />
+    <node id="matplotlib._png" />
+    <node id="matplotlib.delaunay.triangulate" />
+    <node id="__main__" />
+    <node id="numpy.fft.info" />
+    <node id="scipy.sparse.bsr" />
+    <node id="xml.etree.cElementTree" />
+    <node id="unittest.result" />
+    <node id="scipy.ndimage.io" />
+    <node id="networkx.algorithms.centrality.current_flow_betweenness_subset" />
+    <node id="dateutil.parser" />
+    <node id="IPython.utils.terminal" />
+    <node id="matplotlib.blocking_input" />
+    <node id="IPython.core.completer" />
+    <node id="matplotlib.markers" />
+    <node id="_ssl" />
+    <node id="scipy.ndimage.measurements" />
+    <node id="numpy.lib.index_tricks" />
+    <node id="warnings" />
+    <node id="glob" />
+    <node id="networkx.algorithms.traversal" />
+    <node id="networkx.generators.small" />
+    <node id="networkx.linalg.attrmatrix" />
+    <node id="networkx.algorithms.mst" />
+    <node id="IPython.external.path._path" />
+    <node id="pygraphviz" />
+    <node id="matplotlib.cbook" />
+    <node id="scipy.optimize.lbfgsb" />
+    <node id="pygame.surfarray" />
+    <node id="scipy.linalg.linalg_version" />
+    <node id="IPython.utils.wildcard" />
+    <node id="IPython.core.extensions" />
+    <node id="matplotlib.backends.tkagg" />
+    <node id="linecache" />
+    <node id="IPython.core.compilerop" />
+    <node id="pygame.display" />
+    <node id="numpy.linalg.linalg" />
+    <node id="ImageColor" />
+    <node id="networkx.algorithms.bipartite.basic" />
+    <node id="pygraphviz.release" />
+    <node id="numpy.lib._iotools" />
+    <node id="matplotlib.spines" />
+    <node id="pygame.transform" />
+    <node id="pygame._arraysurfarray" />
+    <node id="random" />
+    <node id="datetime" />
+    <node id="urllib" />
+    <node id="networkx" />
+    <node id="ctypes._endian" />
+    <node id="matplotlib.backend_bases" />
+    <node id="scipy.special.basic" />
+    <node id="matplotlib.backends._tkagg" />
+    <node id="scipy.lib.blas.fblas" />
+    <node id="matplotlib.contour" />
+    <node id="numpy.random.mtrand" />
+    <node id="scipy.optimize._minpack" />
+    <node id="networkx.utils.union_find" />
+    <node id="networkx.generators.stochastic" />
+    <node id="IPython.core.magic" />
+    <node id="IPython.utils.dir2" />
+    <node id="numpy.linalg" />
+    <node id="matplotlib.legend_handler" />
+    <node id="pyexpat.errors" />
+    <node id="scipy.sparse.linalg.isolve" />
+    <node id="networkx.algorithms.centrality.current_flow_closeness" />
+    <node id="networkx.readwrite.edgelist" />
+    <node id="cProfile" />
+    <node id="xml.etree.ElementTree" />
+    <node id="sre_compile" />
+    <node id="matplotlib.projections.polar" />
+    <node id="scipy.interpolate.interpnd" />
+    <node id="zipfile" />
+    <node id="scipy.linalg.special_matrices" />
+    <node id="ssl" />
+    <node id="IPython.core.payload" />
+    <node id="numpy.version" />
+    <node id="networkx.algorithms.bipartite" />
+    <node id="scipy.stats.futil" />
+    <node id="_lsprof" />
+    <node id="numpy.lib.type_check" />
+    <node id="scipy.linalg.matfuncs" />
+    <node id="resource" />
+    <node id="bisect" />
+    <node id="matplotlib.scale" />
+    <node id="IPython.utils.pyfile" />
+    <node id="pydoc" />
+    <node id="threading" />
+    <node id="pygame.image" />
+    <node id="IPython.core.prefilter" />
+    <node id="pyexpat.model" />
+    <node id="scipy.integrate.vode" />
+    <node id="scipy.sparse.dok" />
+    <node id="scipy.special.spfun_stats" />
+    <node id="scipy.cluster" />
+    <node id="locale" />
+    <node id="pygame.joystick" />
+    <node id="_csr" />
+    <node id="atexit" />
+    <node id="IPython.external" />
+    <node id="IPython.core.autocall" />
+    <node id="matplotlib.bezier" />
+    <node id="networkx.algorithms.cycles" />
+    <node id="numpy.oldnumeric" />
+    <node id="calendar" />
+    <node id="dateutil" />
+    <node id="matplotlib._image" />
+    <node id="matplotlib.legend" />
+    <node id="pygame.mask" />
+    <node id="numpy.testing.decorators" />
+    <node id="pygame.movie" />
+    <node id="scipy.integrate._quadpack" />
+    <node id="networkx.algorithms.product" />
+    <node id="pygraphviz.tests" />
+    <node id="networkx.algorithms.traversal.breadth_first_search" />
+    <node id="networkx.algorithms.components.connected" />
+    <node id="fcntl" />
+    <node id="unittest.case" />
+    <node id="IPython.utils.path" />
+    <node id="pygame.scrap" />
+    <node id="matplotlib.offsetbox" />
+    <node id="Queue" />
+    <node id="ctypes" />
+    <node id="numpy.core._sort" />
+    <node id="IPython.utils._process_common" />
+    <node id="networkx.algorithms.chordal" />
+    <node id="scipy.linalg.flapack" />
+    <node id="networkx.algorithms.flow.maxflow" />
+    <node id="xml.etree" />
+    <node id="pygame.cdrom" />
+    <node id="numpy.random.info" />
+    <node id="scipy.stats.mstats_basic" />
+    <node id="IPython.utils.decorators" />
+    <node id="numpy.fft.fftpack" />
+    <node id="matplotlib.projections" />
+    <node id="pstats" />
+    <node id="scipy.sparse.linalg.isolve._iterative" />
+    <node id="pdb" />
+    <node id="scipy.sparse.csc" />
+    <node id="IPython.testing" />
+    <node id="xml.parsers" />
+    <node id="networkx.algorithms.assortativity.neighbor_degree" />
+    <node id="scipy.integrate._odepack" />
+    <node id="scipy.sparse.csr" />
+    <node id="networkx.algorithms.assortativity.connectivity" />
+    <node id="IPython.external.path" />
+    <node id="pygame.sndarray" />
+    <node id="IPython.core.hooks" />
+    <node id="pkgutil" />
+    <node id="platform" />
+    <node id="networkx.algorithms.centrality" />
+    <node id="cv2" />
+    <node id="ImageFilter" />
+    <node id="sre_constants" />
+    <node id="IPython.frontend" />
+    <node id="numpy.core.function_base" />
+    <node id="numpy.compat.py3k" />
+    <node id="scipy.sparse.sparsetools.bsr" />
+    <node id="networkx.algorithms" />
+    <node id="numpy" />
+    <node id="matplotlib.mlab" />
+    <node id="scipy.integrate._dop" />
+    <node id="scipy.ndimage._ni_support" />
+    <node id="networkx.algorithms.operators" />
+    <node id="numpy.ma" />
+    <node id="matplotlib.dates" />
+    <node id="networkx.readwrite.multiline_adjlist" />
+    <node id="numpy.oldnumeric.typeconv" />
+    <node id="networkx.algorithms.shortest_paths.unweighted" />
+    <node id="networkx.algorithms.chordal.chordal_alg" />
+    <node id="numpy._import_tools" />
+    <node id="pygame.sprite" />
+    <node id="networkx.algorithms.centrality.flow_matrix" />
+    <node id="numpy.lib" />
+    <node id="pygraphviz._graphviz" />
+    <node id="scipy.stats._support" />
+    <node id="scipy.ndimage.interpolation" />
+    <node id="networkx.algorithms.bipartite.redundancy" />
+    <node id="networkx.tests" />
+    <node id="copy_reg" />
+    <node id="matplotlib.backends._backend_agg" />
+    <node id="subprocess" />
+    <node id="pygame.mixer" />
+    <node id="networkx.linalg.graphmatrix" />
+    <node id="io" />
+    <node id="networkx.linalg" />
+    <node id="shutil" />
+    <node id="numpy.polynomial.polynomial" />
+    <node id="PIL._imagingft" />
+    <node id="numpy.core._dotblas" />
+    <node id="__umfpack" />
+    <node id="SimpleCV.Features.Features" />
+    <node id="SimpleCV.ImageClass" />
+    <node id="networkx.algorithms.assortativity.pairs" />
+    <node id="itertools" />
+    <node id="IPython.testing.skipdoctest" />
+    <node id="IPython.frontend.terminal" />
+    <node id="distutils.spawn" />
+    <node id="networkx.generators.random_clustered" />
+    <node id="numpy.core" />
+    <node id="scipy.sparse.sparsetools.csr" />
+    <node id="sqlite3" />
+    <node id="matplotlib.patches" />
+    <node id="pygraphviz.graphviz" />
+    <node id="IPython.core.macro" />
+    <node id="networkx.classes.multigraph" />
+    <node id="scipy.sparse.linalg.eigen.arpack._arpack" />
+    <node id="IPython.utils.data" />
+    <node id="rfc822" />
+    <node id="numpy.polynomial.polyutils" />
+    <node id="IPython.core.fakemodule" />
+    <node id="networkx.classes.digraph" />
+    <node id="numpy.compat._inspect" />
+    <node id="networkx.algorithms.isomorphism.vf2userfunc" />
+    <node id="SimpleCV.MachineLearning" />
+    <node id="IPython.core.usage" />
+    <node id="SimpleCV.EXIF" />
+    <node id="scipy.optimize.cobyla" />
+    <node id="networkx.convert" />
+    <node id="numpy.testing.numpytest" />
+    <node id="difflib" />
+    <node id="distutils.errors" />
+    <node id="IPython.core.ipapi" />
+    <node id="urlparse" />
+    <node id="networkx.algorithms.components" />
+    <node id="scipy" />
+    <node id="networkx.readwrite.gpickle" />
+    <node id="IPython.core.application" />
+    <node id="IPython.core" />
+    <node id="heapq" />
+    <node id="distutils" />
+    <node id="networkx.algorithms.isomorphism" />
+    <node id="IPython.utils.cursesimport" />
+    <node id="networkx.algorithms.components.attracting" />
+    <node id="scipy.sparse.sparsetools.csc" />
+    <node id="networkx.algorithms.centrality.closeness" />
+    <node id="IPython.core.oinspect" />
+    <node id="scipy.lib.blas" />
+    <node id="matplotlib.colors" />
+    <node id="scipy.stats.morestats" />
+    <node id="networkx.algorithms.mis" />
+    <node id="struct" />
+    <node id="networkx.algorithms.dag" />
+    <node id="networkx.readwrite.gexf" />
+    <node id="IPython.utils.strdispatch" />
+    <node id="IPython.core.inputsplitter" />
+    <node id="scipy.linalg.flinalg" />
+    <node id="pygame.gfxdraw" />
+    <node id="IPython.utils.traitlets" />
+    <node id="numpy.testing" />
+    <node id="collections" />
+    <node id="scipy.spatial.ckdtree" />
+    <node id="IPython.lib.inputhook" />
+    <node id="scipy.linalg.decomp_lu" />
+    <node id="unittest" />
+    <node id="pygraphviz.agraph" />
+    <node id="pygame.fastevent" />
+    <node id="IPython.utils.warn" />
+    <node id="zipimport" />
+    <node id="scipy.sparse.linalg.dsolve.umfpack.umfpack" />
+    <node id="scipy.integrate.odepack" />
+    <node id="scipy.special._cephes" />
+    <node id="textwrap" />
+    <node id="matplotlib.mpl" />
+    <node id="_coo" />
+    <node id="xml.sax._exceptions" />
+    <node id="scipy.stats.rv" />
+    <node id="networkx.algorithms.centrality.current_flow_betweenness" />
+    <node id="scipy.sparse.coo" />
+    <node id="matplotlib._cntr" />
+    <node id="scipy.misc.common" />
+    <node id="networkx.algorithms.link_analysis" />
+    <node id="signal" />
+    <node id="cv2.cv" />
+    <node id="matplotlib.path" />
+    <node id="scipy.optimize.minpack" />
+    <node id="matplotlib.quiver" />
+    <node id="numpy.core.multiarray" />
+    <node id="matplotlib.font_manager" />
+    <node id="networkx.generators.intersection" />
+    <node id="distutils.log" />
+    <node id="distutils.version" />
+    <node id="numpy.ma.core" />
+    <node id="pygame.color" />
+    <node id="scipy.interpolate._fitpack" />
+    <node id="networkx.algorithms.assortativity.correlation" />
+    <node id="numpy.core.getlimits" />
+    <node id="xml.parsers.expat" />
+    <node id="scipy.version" />
+    <node id="scipy.stats.statlib" />
+    <node id="IPython.utils.module_paths" />
+    <node id="IPython.utils.timing" />
+    <node id="IPython.core.magic_arguments" />
+    <node id="matplotlib.delaunay" />
+    <node id="numpy.matrixlib" />
+    <node id="matplotlib.ft2font" />
+    <node id="scipy.stats.mstats" />
+    <node id="IPython.utils.sysinfo" />
+    <node id="_imaging" />
+    <node id="scipy.sparse.linalg" />
+    <node id="IPython.utils.io" />
+    <node id="_csc" />
+    <node id="pygame.key" />
+    <node id="scipy.interpolate.ndgriddata" />
+    <node id="networkx.algorithms.smetric" />
+    <node id="IPython.utils.syspathcontext" />
+    <node id="UserDict" />
+    <node id="scipy.optimize._lbfgsb" />
+    <node id="IPython.lib" />
+    <node id="networkx.exception" />
+    <node id="IPython.utils.PyColorize" />
+    <node id="numpy.polynomial.laguerre" />
+    <node id="ImageMode" />
+    <node id="unittest.runner" />
+    <node id="unittest.loader" />
+    <node id="pygame.mouse" />
+    <node id="pygame._numpysurfarray" />
+    <node id="socket" />
+    <node id="scipy.ndimage.morphology" />
+    <node id="scipy.sparse.base" />
+    <node id="Image" />
+    <node id="matplotlib.tri" />
+    <node id="networkx.algorithms.core" />
+    <node id="scipy.linalg.clapack" />
+    <node id="SimpleCV.Stream" />
+    <node id="IPython.external.Itpl" />
+    <node id="numpy.linalg.lapack_lite" />
+    <node id="os" />
+    <node id="marshal" />
+    <node id="scipy.linalg" />
+    <node id="__future__" />
+    <node id="networkx.algorithms.shortest_paths.generic" />
+    <node id="numpy.core.shape_base" />
+    <node id="curses" />
+    <node id="PIL.ImageMode" />
+    <node id="__builtin__" />
+    <node id="dateutil.rrule" />
+    <node id="operator" />
+    <node id="numpy.polynomial.polytemplate" />
+    <node id="IPython.core.shellapp" />
+    <node id="scipy.optimize.nonlin" />
+    <node id="scipy.optimize" />
+    <node id="networkx.algorithms.centrality.degree_alg" />
+    <node id="networkx.algorithms.bipartite.spectral" />
+    <node id="errno" />
+    <node id="_socket" />
+    <node id="matplotlib.docstring" />
+    <node id="pygame.sysfont" />
+    <node id="xml.sax.handler" />
+    <node id="pygame.colordict" />
+    <node id="networkx.algorithms.flow.mincost" />
+    <node id="networkx.algorithms.centrality.load" />
+    <node id="IPython.utils.text" />
+    <node id="scipy.sparse" />
+    <node id="networkx.readwrite.gml" />
+    <node id="IPython.core.profiledir" />
+    <node id="pwd" />
+    <node id="networkx.algorithms.traversal.depth_first_search" />
+    <node id="scipy.linalg.decomp_svd" />
+    <node id="httplib" />
+    <node id="networkx.algorithms.isomorphism.matchhelpers" />
+    <node id="scipy.sparse.linalg.dsolve.umfpack" />
+    <node id="numpy.fft" />
+    <node id="dateutil.tz" />
+    <node id="networkx.readwrite.nx_yaml" />
+    <node id="colorsys" />
+    <node id="numpy.polynomial.chebyshev" />
+    <node id="numpy.lib.function_base" />
+    <node id="networkx.linalg.laplacianmatrix" />
+    <node id="matplotlib._pylab_helpers" />
+    <node id="scipy.spatial._distance_wrap" />
+    <node id="mimetools" />
+    <node id="networkx.algorithms.distance_regular" />
+    <node id="SimpleCV" />
+    <node id="xml.sax" />
+    <node id="pygame.time" />
+    <node id="_random" />
+    <node id="networkx.algorithms.link_analysis.hits_alg" />
+    <node id="scipy.linalg.decomp_schur" />
+    <node id="numpy.polynomial.hermite" />
+    <node id="networkx.algorithms.community.kclique" />
+    <node id="networkx.algorithms.link_analysis.pagerank_alg" />
+    <node id="scipy.special" />
+    <node id="_io" />
+    <node id="networkx.generators.social" />
+    <node id="IPython.utils.importstring" />
+    <node id="IPython.core.release" />
+    <node id="IPython.lib.pretty" />
+    <node id="scipy.misc.pilutil" />
+    <node id="numpy.core.defchararray" />
+    <node id="_abcoll" />
+    <node id="matplotlib.image" />
+    <node id="matplotlib.nxutils" />
+    <node id="pygame.bufferproxy" />
+    <node id="networkx.algorithms.isolate" />
+    <node id="genericpath" />
+    <node id="stat" />
+    <node id="IPython.core.prompts" />
+    <node id="IPython.core.formatters" />
+    <node id="matplotlib.ticker" />
+    <node id="IPython.lib.security" />
+    <node id="networkx.readwrite.pajek" />
+    <node id="scipy.sparse.sparsetools.csgraph" />
+    <node id="urllib2" />
+    <node id="unittest.signals" />
+    <node id="IPython.config.loader" />
+    <node id="scipy.ndimage._nd_image" />
+    <node id="pygame.mixer_music" />
+    <node id="termios" />
+    <node id="pygame.constants" />
+    <node id="numpy.lib.format" />
+    <node id="numpy.testing.nosetester" />
+    <node id="networkx.readwrite.nx_shp" />
+    <node id="scipy.sparse.extract" />
+    <node id="PIL.ImageDraw" />
+    <node id="scipy.optimize._cobyla" />
+    <node id="networkx.generators.atlas" />
+    <node id="IPython.frontend.terminal.embed" />
+    <node id="matplotlib.cm" />
+    <node id="matplotlib.textpath" />
+    <node id="matplotlib.table" />
+    <node id="time" />
+    <node id="scipy.spatial.kdtree" />
+    <node id="IPython.utils.py3compat" />
+    <node id="networkx.algorithms.boundary" />
+    <node id="matplotlib.pyparsing" />
+    <edge source="matplotlib.artist" target="matplotlib.cbook" />
+    <edge source="matplotlib.artist" target="matplotlib.docstring" />
+    <edge source="networkx.classes" target="networkx.classes.graph" />
+    <edge source="networkx.classes" target="networkx.classes.digraph" />
+    <edge source="networkx.classes" target="networkx.classes.function" />
+    <edge source="networkx.classes" target="networkx.classes.multigraph" />
+    <edge source="networkx.classes" target="networkx.classes.multidigraph" />
+    <edge source="pty" target="tty" />
+    <edge source="matplotlib.axes" target="matplotlib.spines" />
+    <edge source="matplotlib.axes" target="matplotlib.legend" />
+    <edge source="matplotlib.axes" target="matplotlib.tri" />
+    <edge source="matplotlib.axes" target="matplotlib.table" />
+    <edge source="matplotlib.axes" target="matplotlib.collections" />
+    <edge source="matplotlib.axes" target="matplotlib.markers" />
+    <edge source="matplotlib.axes" target="matplotlib.dates" />
+    <edge source="matplotlib.axes" target="matplotlib.quiver" />
+    <edge source="matplotlib.axes" target="matplotlib.axis" />
+    <edge source="matplotlib.axes" target="matplotlib.image" />
+    <edge source="matplotlib.axes" target="matplotlib.font_manager" />
+    <edge source="matplotlib.axes" target="matplotlib.contour" />
+    <edge source="matplotlib.axis" target="matplotlib.ticker" />
+    <edge source="matplotlib.axis" target="matplotlib.patches" />
+    <edge source="matplotlib.axis" target="matplotlib.scale" />
+    <edge source="matplotlib.axis" target="matplotlib.lines" />
+    <edge source="matplotlib.axis" target="matplotlib.units" />
+    <edge source="matplotlib.axis" target="matplotlib.text" />
+    <edge source="matplotlib.pylab" target="matplotlib.pyplot" />
+    <edge source="scipy.cluster.vq" target="numpy" />
+    <edge source="scipy.stats.stats" target="scipy.stats._support" />
+    <edge source="scipy.stats.stats" target="scipy.stats.distributions" />
+    <edge source="PIL.ImageFont" target="PIL._imagingft" />
+    <edge source="IPython.external.argparse" target="argparse" />
+    <edge source="IPython.core.debugger" target="IPython.core.ipapi" />
+    <edge source="IPython.core.debugger" target="IPython.utils.coloransi" />
+    <edge source="IPython.config" target="IPython.config.loader" />
+    <edge source="IPython.config" target="IPython.config.configurable" />
+    <edge source="IPython.config" target="IPython.config.application" />
+    <edge source="IPython.core.ultratb" target="IPython.utils.PyColorize" />
+    <edge source="IPython.core.ultratb" target="pydoc" />
+    <edge source="IPython.core.ultratb" target="IPython.core.debugger" />
+    <edge source="IPython.core.ultratb" target="IPython.utils.pyfile" />
+    <edge source="scipy.ndimage" target="scipy.ndimage._nd_image" />
+    <edge source="scipy.ndimage" target="scipy.ndimage.measurements" />
+    <edge source="scipy.ndimage" target="scipy.ndimage.io" />
+    <edge source="scipy.ndimage" target="scipy.ndimage.fourier" />
+    <edge source="scipy.ndimage" target="scipy.ndimage.filters" />
+    <edge source="scipy.ndimage" target="scipy.ndimage._ni_support" />
+    <edge source="scipy.ndimage" target="scipy.ndimage.interpolation" />
+    <edge source="networkx.algorithms.flow" target="networkx.algorithms.flow.maxflow" />
+    <edge source="networkx.algorithms.flow" target="networkx.algorithms.flow.mincost" />
+    <edge source="scipy.sparse.linalg.dsolve.linsolve" target="scipy.sparse.linalg.dsolve.umfpack" />
+    <edge source="bdb" target="fnmatch" />
+    <edge source="scipy.ndimage.filters" target="scipy.misc.doccer" />
+    <edge source="scipy.sparse.linalg.dsolve" target="scipy.sparse.linalg.dsolve.linsolve" />
+    <edge source="scipy.sparse.linalg.dsolve" target="scipy.sparse.linalg.dsolve._superlu" />
+    <edge source="xml" target="xml.etree" />
+    <edge source="xml" target="xml.parsers" />
+    <edge source="xml" target="xml.sax" />
+    <edge source="IPython.core.alias" target="keyword" />
+    <edge source="inspect" target="imp" />
+    <edge source="inspect" target="tokenize" />
+    <edge source="inspect" target="dis" />
+    <edge source="PIL.Image" target="PIL.ImageMode" />
+    <edge source="PIL.Image" target="PIL.ImagePalette" />
+    <edge source="PIL.Image" target="_imaging" />
+    <edge source="matplotlib" target="matplotlib.artist" />
+    <edge source="matplotlib" target="matplotlib.figure" />
+    <edge source="matplotlib" target="matplotlib.finance" />
+    <edge source="matplotlib" target="matplotlib._png" />
+    <edge source="matplotlib" target="matplotlib._image" />
+    <edge source="matplotlib" target="matplotlib._mathtext_data" />
+    <edge source="matplotlib" target="matplotlib._tri" />
+    <edge source="matplotlib" target="matplotlib.blocking_input" />
+    <edge source="matplotlib" target="matplotlib.colorbar" />
+    <edge source="matplotlib" target="matplotlib.bezier" />
+    <edge source="matplotlib" target="matplotlib.rcsetup" />
+    <edge source="matplotlib" target="matplotlib.backends" />
+    <edge source="matplotlib" target="matplotlib._cm" />
+    <edge source="matplotlib" target="matplotlib.offsetbox" />
+    <edge source="matplotlib" target="matplotlib.pylab" />
+    <edge source="matplotlib" target="matplotlib.mpl" />
+    <edge source="matplotlib" target="matplotlib._path" />
+    <edge source="matplotlib" target="matplotlib.pyparsing" />
+    <edge source="matplotlib" target="matplotlib.axes" />
+    <edge source="matplotlib" target="matplotlib._cntr" />
+    <edge source="matplotlib" target="matplotlib.container" />
+    <edge source="matplotlib" target="matplotlib._delaunay" />
+    <edge source="matplotlib" target="matplotlib.fontconfig_pattern" />
+    <edge source="matplotlib" target="matplotlib._pylab_helpers" />
+    <edge source="matplotlib" target="matplotlib.projections" />
+    <edge source="matplotlib" target="matplotlib.afm" />
+    <edge source="ImagePalette" target="ImageColor" />
+    <edge source="codecs" target="__builtin__" />
+    <edge source="matplotlib.backends.backend_tkagg" target="FileDialog" />
+    <edge source="matplotlib.backends.backend_tkagg" target="matplotlib.backends.tkagg" />
+    <edge source="matplotlib.backends.backend_tkagg" target="Tkinter" />
+    <edge source="matplotlib.backends.backend_tkagg" target="matplotlib.backends.windowing" />
+    <edge source="doctest" target="unittest" />
+    <edge source="doctest" target="__future__" />
+    <edge source="doctest" target="difflib" />
+    <edge source="doctest" target="inspect" />
+    <edge source="doctest" target="pdb" />
+    <edge source="PIL.ImagePalette" target="array" />
+    <edge source="PIL.ImagePalette" target="PIL.ImageColor" />
+    <edge source="numpy.dual" target="numpy.fft" />
+    <edge source="numpy.dual" target="numpy.linalg" />
+    <edge source="IPython" target="IPython.utils" />
+    <edge source="IPython" target="IPython.testing" />
+    <edge source="IPython" target="IPython.lib" />
+    <edge source="IPython" target="IPython.external" />
+    <edge source="IPython" target="IPython.frontend" />
+    <edge source="IPython" target="IPython.config" />
+    <edge source="IPython" target="IPython.core" />
+    <edge source="networkx.utils" target="networkx.utils.misc" />
+    <edge source="networkx.utils" target="networkx.utils.random_sequence" />
+    <edge source="networkx.utils" target="networkx.utils.union_find" />
+    <edge source="networkx.utils" target="networkx.utils.decorators" />
+    <edge source="networkx.utils" target="networkx.utils.rcm" />
+    <edge source="scipy.linalg.decomp_qr" target="scipy.linalg.special_matrices" />
+    <edge source="matplotlib.collections" target="matplotlib.path" />
+    <edge source="matplotlib.collections" target="matplotlib.backend_bases" />
+    <edge source="matplotlib.collections" target="matplotlib.mlab" />
+    <edge source="matplotlib.collections" target="matplotlib.cm" />
+    <edge source="scipy.stats.kde" target="scipy.stats.mvn" />
+    <edge source="SimpleCV.Features.Detection" target="scipy.linalg" />
+    <edge source="SimpleCV.Features.Detection" target="scipy.stats.stats" />
+    <edge source="SimpleCV.Features.Detection" target="SocketServer" />
+    <edge source="SimpleCV.Features.Detection" target="scipy.spatial.distance" />
+    <edge source="SimpleCV.Features.Detection" target="PIL.Image" />
+    <edge source="SimpleCV.Features.Detection" target="zipfile" />
+    <edge source="SimpleCV.Features.Detection" target="PIL.ImageDraw" />
+    <edge source="SimpleCV.Features.Detection" target="cv2.cv" />
+    <edge source="SimpleCV.Features.Detection" target="urllib2" />
+    <edge source="SimpleCV.Features.Detection" target="pygame.gfxdraw" />
+    <edge source="SimpleCV.Features.Detection" target="scipy.cluster.vq" />
+    <edge source="SimpleCV.Features.Detection" target="colorsys" />
+    <edge source="SimpleCV.Features.Detection" target="pygame" />
+    <edge source="SimpleCV.Features.Detection" target="IPython" />
+    <edge source="SimpleCV.Features.Detection" target="scipy.ndimage" />
+    <edge source="SimpleCV.Features.Detection" target="PIL.ImageFont" />
+    <edge source="numpy.compat" target="numpy.compat.py3k" />
+    <edge source="numpy.compat" target="numpy.compat._inspect" />
+    <edge source="numpy.core.fromnumeric" target="numpy.core.multiarray" />
+    <edge source="numpy.core.fromnumeric" target="numpy.core.numerictypes" />
+    <edge source="numpy.core.fromnumeric" target="numpy.core.umath" />
+    <edge source="scipy.linalg.blas" target="scipy.linalg.fblas" />
+    <edge source="pickle" target="binascii" />
+    <edge source="pickle" target="marshal" />
+    <edge source="pickle" target="struct" />
+    <edge source="matplotlib.texmanager" target="distutils" />
+    <edge source="scipy.sparse.sparsetools" target="scipy.sparse.sparsetools.coo" />
+    <edge source="scipy.sparse.sparsetools" target="scipy.sparse.sparsetools.csr" />
+    <edge source="scipy.sparse.sparsetools" target="scipy.sparse.sparsetools.csgraph" />
+    <edge source="scipy.sparse.sparsetools" target="scipy.sparse.sparsetools.csc" />
+    <edge source="scipy.sparse.sparsetools" target="scipy.sparse.sparsetools.dia" />
+    <edge source="scipy.sparse.sparsetools" target="scipy.sparse.sparsetools.bsr" />
+    <edge source="scipy.sparse.linalg.dsolve.umfpack._umfpack" target="__umfpack" />
+    <edge source="IPython.core.history" target="sqlite3" />
+    <edge source="numpy.core.numeric" target="numpy.core.fromnumeric" />
+    <edge source="scipy.sparse.sparsetools.dia" target="_dia" />
+    <edge source="scipy.spatial" target="scipy.spatial.ckdtree" />
+    <edge source="networkx.algorithms.centrality.betweenness" target="random" />
+    <edge source="IPython.config.application" target="re" />
+    <edge source="IPython.config.application" target="logging" />
+    <edge source="networkx.algorithms.community" target="networkx.algorithms.community.kclique" />
+    <edge source="argparse" target="copy" />
+    <edge source="argparse" target="collections" />
+    <edge source="argparse" target="textwrap" />
+    <edge source="__main__.Top" target="SimpleCV" />
+    <edge source="scipy.interpolate" target="scipy.interpolate.interpolate" />
+    <edge source="scipy.interpolate" target="scipy.interpolate.rbf" />
+    <edge source="scipy.interpolate" target="scipy.interpolate.polyint" />
+    <edge source="scipy.interpolate" target="scipy.interpolate._fitpack" />
+    <edge source="scipy.interpolate" target="scipy.interpolate.fitpack2" />
+    <edge source="scipy.interpolate" target="scipy.interpolate.fitpack" />
+    <edge source="scipy.interpolate" target="scipy.interpolate.interpnd" />
+    <edge source="scipy.interpolate" target="scipy.interpolate.dfitpack" />
+    <edge source="scipy.interpolate" target="scipy.interpolate.ndgriddata" />
+    <edge source="IPython.external.pexpect" target="pexpect" />
+    <edge source="matplotlib.colorbar" target="matplotlib.gridspec" />
+    <edge source="uuid" target="ctypes" />
+    <edge source="numpy.matrixlib.defmatrix" target="numpy.core.numeric" />
+    <edge source="tempfile" target="fcntl" />
+    <edge source="scipy.stats.distributions" target="scipy.integrate" />
+    <edge source="scipy.stats.distributions" target="scipy.optimize" />
+    <edge source="IPython.config.configurable" target="datetime" />
+    <edge source="matplotlib.text" target="matplotlib.nxutils" />
+    <edge source="pygame" target="pygame.color" />
+    <edge source="pygame" target="pygame._numpysndarray" />
+    <edge source="pygame" target="pygame.time" />
+    <edge source="pygame" target="pygame.transform" />
+    <edge source="pygame" target="pygame._arraysurfarray" />
+    <edge source="pygame" target="pygame.overlay" />
+    <edge source="pygame" target="pygame.sprite" />
+    <edge source="pygame" target="pygame.surface" />
+    <edge source="pygame" target="pygame.key" />
+    <edge source="pygame" target="pygame.base" />
+    <edge source="pygame" target="pygame.compat" />
+    <edge source="pygame" target="pygame.draw" />
+    <edge source="pygame" target="pygame.sndarray" />
+    <edge source="pygame" target="pygame.sysfont" />
+    <edge source="pygame" target="pygame.rect" />
+    <edge source="pygame" target="pygame.colordict" />
+    <edge source="pygame" target="pygame.threads" />
+    <edge source="pygame" target="pygame.joystick" />
+    <edge source="pygame" target="pygame.fastevent" />
+    <edge source="pygame" target="pygame.event" />
+    <edge source="pygame" target="pygame.scrap" />
+    <edge source="pygame" target="pygame.cursors" />
+    <edge source="pygame" target="pygame.version" />
+    <edge source="pygame" target="pygame.constants" />
+    <edge source="pygame" target="pygame.movie" />
+    <edge source="pygame" target="pygame.mouse" />
+    <edge source="pygame" target="pygame._numpysurfarray" />
+    <edge source="pygame" target="pygame.surfarray" />
+    <edge source="pygame" target="pygame.font" />
+    <edge source="pygame" target="pygame.pixelarray" />
+    <edge source="pygame" target="pygame.mask" />
+    <edge source="pygame" target="pygame.image" />
+    <edge source="pygame" target="pygame.bufferproxy" />
+    <edge source="pygame" target="pygame.display" />
+    <edge source="pygame" target="pygame.cdrom" />
+    <edge source="pygraphviz.tests.test" target="glob" />
+    <edge source="pygraphviz.tests.test" target="doctest" />
+    <edge source="scipy.optimize.linesearch" target="scipy.optimize.minpack2" />
+    <edge source="networkx.external" target="networkx.external.decorator" />
+    <edge source="scipy.integrate" target="scipy.integrate._dop" />
+    <edge source="scipy.integrate" target="scipy.integrate._quadpack" />
+    <edge source="scipy.integrate" target="scipy.integrate.quadpack" />
+    <edge source="scipy.integrate" target="scipy.integrate._odepack" />
+    <edge source="scipy.integrate" target="scipy.integrate.odepack" />
+    <edge source="scipy.integrate" target="scipy.integrate.vode" />
+    <edge source="IPython.frontend.terminal.ipapp" target="IPython.lib.inputhook" />
+    <edge source="scipy.cluster.hierarchy" target="matplotlib" />
+    <edge source="decimal" target="numbers" />
+    <edge source="networkx.external.decorator" target="networkx.external.decorator._decorator" />
+    <edge source="networkx.algorithms.shortest_paths" target="networkx.algorithms.shortest_paths.weighted" />
+    <edge source="networkx.algorithms.shortest_paths" target="networkx.algorithms.shortest_paths.unweighted" />
+    <edge source="networkx.drawing.nx_agraph" target="tempfile" />
+    <edge source="numpy.polynomial" target="numpy.polynomial.hermite_e" />
+    <edge source="numpy.polynomial" target="numpy.polynomial.laguerre" />
+    <edge source="numpy.polynomial" target="numpy.polynomial.hermite" />
+    <edge source="numpy.polynomial" target="numpy.polynomial.chebyshev" />
+    <edge source="numpy.polynomial" target="numpy.polynomial.polynomial" />
+    <edge source="numpy.polynomial" target="numpy.polynomial.polytemplate" />
+    <edge source="numpy.polynomial" target="numpy.polynomial.legendre" />
+    <edge source="pygame._numpysndarray" target="pygame.mixer" />
+    <edge source="encodings" target="encodings.aliases" />
+    <edge source="encodings" target="encodings.utf_8" />
+    <edge source="networkx.generators" target="networkx.generators.bipartite" />
+    <edge source="networkx.generators" target="networkx.generators.social" />
+    <edge source="networkx.generators" target="networkx.generators.threshold" />
+    <edge source="networkx.generators" target="networkx.generators.random_graphs" />
+    <edge source="networkx.generators" target="networkx.generators.hybrid" />
+    <edge source="networkx.generators" target="networkx.generators.small" />
+    <edge source="networkx.generators" target="networkx.generators.random_clustered" />
+    <edge source="networkx.generators" target="networkx.generators.geometric" />
+    <edge source="networkx.generators" target="networkx.generators.stochastic" />
+    <edge source="networkx.generators" target="networkx.generators.line" />
+    <edge source="networkx.generators" target="networkx.generators.intersection" />
+    <edge source="IPython.core.interactiveshell" target="IPython.core.shadowns" />
+    <edge source="IPython.core.interactiveshell" target="IPython.core.prefilter" />
+    <edge source="IPython.core.interactiveshell" target="IPython.core.oinspect" />
+    <edge source="IPython.core.crashhandler" target="IPython.core.ultratb" />
+    <edge source="IPython.utils" target="IPython.utils.cursesimport" />
+    <edge source="IPython.utils" target="IPython.utils.autoattr" />
+    <edge source="IPython.utils" target="IPython.utils.module_paths" />
+    <edge source="IPython.utils" target="IPython.utils.timing" />
+    <edge source="IPython.utils" target="IPython.utils.importstring" />
+    <edge source="IPython.utils" target="IPython.utils.terminal" />
+    <edge source="IPython.utils" target="IPython.utils.dir2" />
+    <edge source="IPython.utils" target="IPython.utils.sysinfo" />
+    <edge source="IPython.utils" target="IPython.utils._sysinfo" />
+    <edge source="IPython.utils" target="IPython.utils.traitlets" />
+    <edge source="IPython.utils" target="IPython.utils.ipstruct" />
+    <edge source="IPython.utils" target="IPython.utils.doctestreload" />
+    <edge source="IPython.utils" target="IPython.utils.path" />
+    <edge source="IPython.utils" target="IPython.utils.data" />
+    <edge source="IPython.utils" target="IPython.utils.syspathcontext" />
+    <edge source="IPython.utils" target="IPython.utils._process_common" />
+    <edge source="IPython.utils" target="IPython.utils.process" />
+    <edge source="IPython.utils" target="IPython.utils.pickleshare" />
+    <edge source="IPython.utils" target="IPython.utils.wildcard" />
+    <edge source="IPython.utils" target="IPython.utils.decorators" />
+    <edge source="IPython.utils" target="IPython.utils._process_posix" />
+    <edge source="IPython.utils" target="IPython.utils.strdispatch" />
+    <edge source="re" target="sre_compile" />
+    <edge source="matplotlib.backends" target="matplotlib.backends.backend_tkagg" />
+    <edge source="matplotlib.backends" target="matplotlib.backends._tkagg" />
+    <edge source="matplotlib.backends" target="matplotlib.backends.backend_agg" />
+    <edge source="matplotlib.backends" target="matplotlib.backends._backend_agg" />
+    <edge source="dateutil.relativedelta" target="calendar" />
+    <edge source="logging" target="cStringIO" />
+    <edge source="logging" target="traceback" />
+    <edge source="logging" target="thread" />
+    <edge source="logging" target="threading" />
+    <edge source="logging" target="time" />
+    <edge source="logging" target="weakref" />
+    <edge source="logging" target="atexit" />
+    <edge source="logging" target="codecs" />
+    <edge source="logging" target="os" />
+    <edge source="networkx.algorithms.assortativity" target="networkx.algorithms.assortativity.pairs" />
+    <edge source="networkx.algorithms.assortativity" target="networkx.algorithms.assortativity.mixing" />
+    <edge source="networkx.algorithms.assortativity" target="networkx.algorithms.assortativity.neighbor_degree" />
+    <edge source="networkx.algorithms.assortativity" target="networkx.algorithms.assortativity.correlation" />
+    <edge source="networkx.algorithms.assortativity" target="networkx.algorithms.assortativity.connectivity" />
+    <edge source="scipy.stats" target="scipy.stats.vonmises_cython" />
+    <edge source="scipy.stats" target="scipy.stats.mstats_extras" />
+    <edge source="scipy.stats" target="scipy.stats.kde" />
+    <edge source="scipy.stats" target="scipy.stats.mstats_basic" />
+    <edge source="scipy.stats" target="scipy.stats.mstats" />
+    <edge source="scipy.stats" target="scipy.stats.futil" />
+    <edge source="scipy.stats" target="scipy.stats.morestats" />
+    <edge source="scipy.stats" target="scipy.stats.rv" />
+    <edge source="scipy.sparse.linalg.eigen.arpack.arpack" target="scipy.sparse.linalg.eigen.arpack._arpack" />
+    <edge source="numpy.random" target="numpy.random.mtrand" />
+    <edge source="numpy.random" target="numpy.random.info" />
+    <edge source="FileDialog" target="_tkinter" />
+    <edge source="pexpect" target="resource" />
+    <edge source="pexpect" target="termios" />
+    <edge source="pexpect" target="pty" />
+    <edge source="posixpath" target="genericpath" />
+    <edge source="posixpath" target="warnings" />
+    <edge source="matplotlib.mathtext" target="unicodedata" />
+    <edge source="networkx.algorithms.swap" target="math" />
+    <edge source="scipy.sparse.sparsetools.coo" target="_coo" />
+    <edge source="networkx.readwrite" target="networkx.readwrite.sparsegraph6" />
+    <edge source="scipy.spatial.distance" target="scipy.spatial._distance_wrap" />
+    <edge source="hashlib" target="_hashlib" />
+    <edge source="scipy.misc" target="scipy.misc.pilutil" />
+    <edge source="scipy.misc" target="scipy.misc.common" />
+    <edge source="xml.sax.saxutils" target="urlparse" />
+    <edge source="xml.sax.saxutils" target="xml.sax.xmlreader" />
+    <edge source="networkx.utils.misc" target="uuid" />
+    <edge source="scipy.linalg.basic" target="scipy.linalg.calc_lwork" />
+    <edge source="scipy.linalg.basic" target="scipy.linalg.decomp_svd" />
+    <edge source="networkx.drawing" target="networkx.drawing.nx_pylab" />
+    <edge source="networkx.drawing" target="networkx.drawing.layout" />
+    <edge source="networkx.drawing" target="pygraphviz" />
+    <edge source="networkx.drawing" target="networkx.drawing.nx_agraph" />
+    <edge source="scipy.interpolate.interpolate" target="scipy.special" />
+    <edge source="__main__" target="networkx" />
+    <edge source="scipy.sparse.bsr" target="scipy.sparse.sparsetools" />
+    <edge source="unittest.result" target="unittest.util" />
+    <edge source="networkx.algorithms.centrality.current_flow_betweenness_subset" target="itertools" />
+    <edge source="dateutil.parser" target="dateutil.relativedelta" />
+    <edge source="dateutil.parser" target="dateutil.tz" />
+    <edge source="IPython.core.completer" target="IPython.utils.generics" />
+    <edge source="IPython.core.completer" target="shlex" />
+    <edge source="scipy.ndimage.measurements" target="scipy.ndimage.morphology" />
+    <edge source="warnings" target="linecache" />
+    <edge source="warnings" target="types" />
+    <edge source="IPython.external.path._path" target="pwd" />
+    <edge source="pygraphviz" target="pygraphviz.release" />
+    <edge source="pygraphviz" target="pygraphviz.tests" />
+    <edge source="pygraphviz" target="pygraphviz._graphviz" />
+    <edge source="pygraphviz" target="pygraphviz.agraph" />
+    <edge source="scipy.optimize.lbfgsb" target="scipy.optimize.optimize" />
+    <edge source="IPython.core.compilerop" target="codeop" />
+    <edge source="random" target="_random" />
+    <edge source="random" target="hashlib" />
+    <edge source="urllib" target="ssl" />
+    <edge source="urllib" target="base64" />
+    <edge source="networkx" target="networkx.readwrite.graphml" />
+    <edge source="networkx" target="networkx.drawing" />
+    <edge source="networkx" target="networkx.classes" />
+    <edge source="networkx" target="networkx.readwrite.multiline_adjlist" />
+    <edge source="networkx" target="networkx.linalg.graphmatrix" />
+    <edge source="networkx" target="networkx.linalg" />
+    <edge source="networkx" target="networkx.utils" />
+    <edge source="networkx" target="networkx.generators" />
+    <edge source="networkx" target="networkx.readwrite.gexf" />
+    <edge source="networkx" target="networkx.readwrite.edgelist" />
+    <edge source="networkx" target="networkx.generators.ego" />
+    <edge source="networkx" target="networkx.algorithms" />
+    <edge source="networkx" target="networkx.generators.degree_seq" />
+    <edge source="networkx" target="networkx.readwrite.adjlist" />
+    <edge source="networkx" target="networkx.readwrite" />
+    <edge source="networkx" target="networkx.readwrite.gml" />
+    <edge source="networkx" target="networkx.readwrite.pajek" />
+    <edge source="networkx" target="networkx.release" />
+    <edge source="networkx" target="networkx.generators.directed" />
+    <edge source="networkx" target="networkx.linalg.attrmatrix" />
+    <edge source="networkx" target="networkx.exception" />
+    <edge source="networkx" target="networkx.readwrite.leda" />
+    <edge source="networkx" target="networkx.external" />
+    <edge source="networkx" target="networkx.readwrite.nx_shp" />
+    <edge source="networkx" target="networkx.relabel" />
+    <edge source="networkx" target="networkx.generators.atlas" />
+    <edge source="networkx" target="networkx.readwrite.nx_yaml" />
+    <edge source="networkx" target="networkx.generators.classic" />
+    <edge source="networkx" target="networkx.readwrite.gpickle" />
+    <edge source="networkx" target="networkx.tests" />
+    <edge source="networkx" target="networkx.linalg.laplacianmatrix" />
+    <edge source="matplotlib.backend_bases" target="matplotlib.textpath" />
+    <edge source="matplotlib.backend_bases" target="matplotlib.widgets" />
+    <edge source="matplotlib.backend_bases" target="matplotlib.tight_bbox" />
+    <edge source="scipy.special.basic" target="scipy.special.orthogonal" />
+    <edge source="scipy.special.basic" target="scipy.special.specfun" />
+    <edge source="matplotlib.contour" target="matplotlib.mathtext" />
+    <edge source="matplotlib.contour" target="matplotlib.texmanager" />
+    <edge source="IPython.core.magic" target="IPython.core.magic_arguments" />
+    <edge source="IPython.core.magic" target="cProfile" />
+    <edge source="IPython.core.magic" target="pstats" />
+    <edge source="numpy.linalg" target="numpy.linalg.lapack_lite" />
+    <edge source="numpy.linalg" target="numpy.linalg.linalg" />
+    <edge source="numpy.linalg" target="numpy.linalg.info" />
+    <edge source="scipy.sparse.linalg.isolve" target="scipy.sparse.linalg.isolve.utils" />
+    <edge source="scipy.sparse.linalg.isolve" target="scipy.sparse.linalg.isolve.iterative" />
+    <edge source="scipy.sparse.linalg.isolve" target="scipy.sparse.linalg.isolve._iterative" />
+    <edge source="cProfile" target="_lsprof" />
+    <edge source="sre_compile" target="_sre" />
+    <edge source="sre_compile" target="sre_parse" />
+    <edge source="scipy.interpolate.interpnd" target="scipy.spatial.qhull" />
+    <edge source="zipfile" target="zlib" />
+    <edge source="zipfile" target="io" />
+    <edge source="networkx.algorithms.bipartite" target="networkx.algorithms.bipartite.cluster" />
+    <edge source="networkx.algorithms.bipartite" target="networkx.algorithms.bipartite.spectral" />
+    <edge source="networkx.algorithms.bipartite" target="networkx.algorithms.bipartite.redundancy" />
+    <edge source="networkx.algorithms.bipartite" target="networkx.algorithms.bipartite.projection" />
+    <edge source="networkx.algorithms.bipartite" target="networkx.algorithms.bipartite.centrality" />
+    <edge source="networkx.algorithms.bipartite" target="networkx.algorithms.bipartite.basic" />
+    <edge source="pydoc" target="pkgutil" />
+    <edge source="scipy.cluster" target="scipy.cluster._hierarchy_wrap" />
+    <edge source="scipy.cluster" target="scipy.cluster.hierarchy" />
+    <edge source="locale" target="operator" />
+    <edge source="locale" target="encodings" />
+    <edge source="atexit" target="sys" />
+    <edge source="IPython.external" target="IPython.external.path" />
+    <edge source="IPython.external" target="IPython.external.pexpect" />
+    <edge source="IPython.external" target="IPython.external.decorator" />
+    <edge source="IPython.external" target="IPython.external.Itpl" />
+    <edge source="IPython.external" target="IPython.external.simplegeneric" />
+    <edge source="numpy.oldnumeric" target="numpy.oldnumeric.typeconv" />
+    <edge source="numpy.oldnumeric" target="numpy.random" />
+    <edge source="numpy.oldnumeric" target="numpy.oldnumeric.array_printer" />
+    <edge source="dateutil" target="dateutil.parser" />
+    <edge source="dateutil" target="dateutil.rrule" />
+    <edge source="matplotlib.legend" target="matplotlib.legend_handler" />
+    <edge source="pygraphviz.tests" target="pygraphviz.tests.test" />
+    <edge source="unittest.case" target="unittest.result" />
+    <edge source="ctypes" target="ctypes._endian" />
+    <edge source="ctypes" target="ctypes.util" />
+    <edge source="networkx.algorithms.chordal" target="networkx.algorithms.chordal.chordal_alg" />
+    <edge source="xml.etree" target="xml.etree.cElementTree" />
+    <edge source="xml.etree" target="xml.etree.ElementPath" />
+    <edge source="xml.etree" target="xml.etree.ElementTree" />
+    <edge source="numpy.fft.fftpack" target="numpy.fft.fftpack_lite" />
+    <edge source="matplotlib.projections" target="matplotlib.projections.polar" />
+    <edge source="matplotlib.projections" target="matplotlib.projections.geo" />
+    <edge source="pdb" target="pprint" />
+    <edge source="pdb" target="cmd" />
+    <edge source="pdb" target="bdb" />
+    <edge source="IPython.testing" target="IPython.testing.skipdoctest" />
+    <edge source="xml.parsers" target="xml.parsers.expat" />
+    <edge source="IPython.external.path" target="IPython.external.path._path" />
+    <edge source="pkgutil" target="zipimport" />
+    <edge source="networkx.algorithms.centrality" target="networkx.algorithms.centrality.load" />
+    <edge source="networkx.algorithms.centrality" target="networkx.algorithms.centrality.degree_alg" />
+    <edge source="networkx.algorithms.centrality" target="networkx.algorithms.centrality.current_flow_betweenness_subset" />
+    <edge source="networkx.algorithms.centrality" target="networkx.algorithms.centrality.flow_matrix" />
+    <edge source="networkx.algorithms.centrality" target="networkx.algorithms.centrality.current_flow_closeness" />
+    <edge source="networkx.algorithms.centrality" target="networkx.algorithms.centrality.eigenvector" />
+    <edge source="networkx.algorithms.centrality" target="networkx.algorithms.centrality.closeness" />
+    <edge source="networkx.algorithms.centrality" target="networkx.algorithms.centrality.communicability_alg" />
+    <edge source="networkx.algorithms.centrality" target="networkx.algorithms.centrality.current_flow_betweenness" />
+    <edge source="IPython.frontend" target="IPython.frontend.terminal" />
+    <edge source="scipy.sparse.sparsetools.bsr" target="_bsr" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.flow" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.distance_regular" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.isomorphism" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.vitality" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.components.attracting" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.components" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.cycles" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.shortest_paths.dense" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.shortest_paths.generic" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.cluster" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.mis" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.dag" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.centrality" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.block" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.product" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.centrality.betweenness_subset" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.smetric" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.traversal.breadth_first_search" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.bipartite" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.centrality.betweenness" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.isolate" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.link_analysis.hits_alg" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.euler" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.components.biconnected" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.community" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.traversal" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.operators" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.mst" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.traversal.depth_first_search" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.shortest_paths.astar" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.swap" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.matching" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.chordal" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.graphical" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.link_analysis" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.richclub" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.core" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.shortest_paths" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.distance_measures" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.assortativity" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.clique" />
+    <edge source="networkx.algorithms" target="networkx.algorithms.boundary" />
+    <edge source="numpy" target="numpy.ctypeslib" />
+    <edge source="numpy" target="numpy.matrixlib" />
+    <edge source="numpy" target="numpy.version" />
+    <edge source="numpy" target="numpy.add_newdocs" />
+    <edge source="numpy" target="numpy.lib" />
+    <edge source="numpy" target="numpy.core.defchararray" />
+    <edge source="numpy" target="numpy.compat" />
+    <edge source="numpy" target="numpy._import_tools" />
+    <edge source="numpy" target="numpy.dual" />
+    <edge source="numpy" target="numpy.ma" />
+    <edge source="numpy" target="numpy.polynomial" />
+    <edge source="numpy" target="numpy.core" />
+    <edge source="numpy" target="numpy.testing" />
+    <edge source="numpy" target="numpy.oldnumeric" />
+    <edge source="numpy" target="numpy.__config__" />
+    <edge source="numpy" target="numpy.lib.scimath" />
+    <edge source="matplotlib.mlab" target="csv" />
+    <edge source="numpy.ma" target="numpy.ma.extras" />
+    <edge source="numpy.ma" target="numpy.ma.core" />
+    <edge source="matplotlib.dates" target="dateutil" />
+    <edge source="numpy.lib" target="numpy.lib.stride_tricks" />
+    <edge source="numpy.lib" target="numpy.lib.type_check" />
+    <edge source="numpy.lib" target="numpy.lib._iotools" />
+    <edge source="numpy.lib" target="numpy.lib.index_tricks" />
+    <edge source="numpy.lib" target="numpy.lib.financial" />
+    <edge source="numpy.lib" target="numpy.lib.ufunclike" />
+    <edge source="numpy.lib" target="numpy.lib.utils" />
+    <edge source="numpy.lib" target="numpy.lib.arraysetops" />
+    <edge source="numpy.lib" target="numpy.lib.npyio" />
+    <edge source="numpy.lib" target="numpy.lib._datasource" />
+    <edge source="numpy.lib" target="numpy.lib.polynomial" />
+    <edge source="numpy.lib" target="numpy.lib.shape_base" />
+    <edge source="numpy.lib" target="numpy.lib.twodim_base" />
+    <edge source="numpy.lib" target="numpy.lib._compiled_base" />
+    <edge source="numpy.lib" target="numpy.lib.function_base" />
+    <edge source="numpy.lib" target="numpy.lib.format" />
+    <edge source="numpy.lib" target="numpy.lib.arrayterator" />
+    <edge source="networkx.tests" target="networkx.tests.test" />
+    <edge source="subprocess" target="pickle" />
+    <edge source="subprocess" target="signal" />
+    <edge source="subprocess" target="gc" />
+    <edge source="subprocess" target="select" />
+    <edge source="pygame.mixer" target="pygame.mixer_music" />
+    <edge source="io" target="_io" />
+    <edge source="networkx.linalg" target="networkx.linalg.spectrum" />
+    <edge source="IPython.frontend.terminal" target="IPython.frontend.terminal.ipapp" />
+    <edge source="IPython.frontend.terminal" target="IPython.frontend.terminal.embed" />
+    <edge source="IPython.frontend.terminal" target="IPython.frontend.terminal.interactiveshell" />
+    <edge source="numpy.core" target="numpy.core.scalarmath" />
+    <edge source="numpy.core" target="numpy.core.info" />
+    <edge source="numpy.core" target="numpy.core.shape_base" />
+    <edge source="numpy.core" target="numpy.core.getlimits" />
+    <edge source="numpy.core" target="numpy.core.arrayprint" />
+    <edge source="numpy.core" target="numpy.core._internal" />
+    <edge source="numpy.core" target="numpy.core.function_base" />
+    <edge source="numpy.core" target="numpy.core._sort" />
+    <edge source="numpy.core" target="numpy.core.records" />
+    <edge source="numpy.core" target="numpy.core._dotblas" />
+    <edge source="numpy.core" target="numpy.core.machar" />
+    <edge source="scipy.sparse.sparsetools.csr" target="_csr" />
+    <edge source="sqlite3" target="sqlite3.dbapi2" />
+    <edge source="matplotlib.patches" target="matplotlib.transforms" />
+    <edge source="matplotlib.patches" target="matplotlib.colors" />
+    <edge source="pygraphviz.graphviz" target="new" />
+    <edge source="networkx.classes.digraph" target="networkx.convert" />
+    <edge source="networkx.algorithms.components" target="networkx.algorithms.components.weakly_connected" />
+    <edge source="networkx.algorithms.components" target="networkx.algorithms.components.strongly_connected" />
+    <edge source="networkx.algorithms.components" target="networkx.algorithms.components.connected" />
+    <edge source="scipy" target="scipy.misc" />
+    <edge source="scipy" target="scipy.cluster" />
+    <edge source="scipy" target="scipy.sparse" />
+    <edge source="scipy" target="scipy.interpolate" />
+    <edge source="scipy" target="scipy.stats" />
+    <edge source="scipy" target="scipy.lib" />
+    <edge source="scipy" target="scipy.spatial" />
+    <edge source="scipy" target="scipy.__config__" />
+    <edge source="scipy" target="scipy.version" />
+    <edge source="networkx.readwrite.gpickle" target="cPickle" />
+    <edge source="IPython.core.application" target="IPython.core.crashhandler" />
+    <edge source="IPython.core.application" target="IPython.core.release" />
+    <edge source="IPython.core" target="IPython.core.error" />
+    <edge source="IPython.core" target="IPython.core.splitinput" />
+    <edge source="IPython.core" target="IPython.core.macro" />
+    <edge source="IPython.core" target="IPython.core.plugin" />
+    <edge source="IPython.core" target="IPython.core.excolors" />
+    <edge source="IPython.core" target="IPython.core.autocall" />
+    <edge source="IPython.core" target="IPython.core.display_trap" />
+    <edge source="IPython.core" target="IPython.core.hooks" />
+    <edge source="IPython.core" target="IPython.core.interactiveshell" />
+    <edge source="IPython.core" target="IPython.core.displaypub" />
+    <edge source="IPython.core" target="IPython.core.magic" />
+    <edge source="IPython.core" target="IPython.core.history" />
+    <edge source="IPython.core" target="IPython.core.inputsplitter" />
+    <edge source="IPython.core" target="IPython.core.logger" />
+    <edge source="IPython.core" target="IPython.core.profiledir" />
+    <edge source="IPython.core" target="IPython.core.completer" />
+    <edge source="IPython.core" target="IPython.core.alias" />
+    <edge source="IPython.core" target="IPython.core.prompts" />
+    <edge source="IPython.core" target="IPython.core.formatters" />
+    <edge source="IPython.core" target="IPython.core.fakemodule" />
+    <edge source="IPython.core" target="IPython.core.payload" />
+    <edge source="IPython.core" target="IPython.core.shellapp" />
+    <edge source="IPython.core" target="IPython.core.extensions" />
+    <edge source="IPython.core" target="IPython.core.displayhook" />
+    <edge source="IPython.core" target="IPython.core.builtin_trap" />
+    <edge source="IPython.core" target="IPython.core.compilerop" />
+    <edge source="IPython.core" target="IPython.core.application" />
+    <edge source="IPython.core" target="IPython.core.usage" />
+    <edge source="IPython.core" target="IPython.core.pylabtools" />
+    <edge source="heapq" target="bisect" />
+    <edge source="distutils" target="distutils.version" />
+    <edge source="distutils" target="distutils.dep_util" />
+    <edge source="distutils" target="distutils.log" />
+    <edge source="distutils" target="distutils.errors" />
+    <edge source="distutils" target="distutils.spawn" />
+    <edge source="distutils" target="distutils.sysconfig" />
+    <edge source="distutils" target="distutils.util" />
+    <edge source="networkx.algorithms.isomorphism" target="networkx.algorithms.isomorphism.matchhelpers" />
+    <edge source="networkx.algorithms.isomorphism" target="networkx.algorithms.isomorphism.vf2userfunc" />
+    <edge source="networkx.algorithms.isomorphism" target="networkx.algorithms.isomorphism.isomorph" />
+    <edge source="networkx.algorithms.isomorphism" target="networkx.algorithms.isomorphism.isomorphvf2" />
+    <edge source="IPython.utils.cursesimport" target="curses" />
+    <edge source="scipy.sparse.sparsetools.csc" target="_csc" />
+    <edge source="IPython.core.oinspect" target="IPython.core.page" />
+    <edge source="scipy.lib.blas" target="scipy.lib.blas.fblas" />
+    <edge source="scipy.stats.morestats" target="scipy.stats.statlib" />
+    <edge source="IPython.core.inputsplitter" target="ast" />
+    <edge source="numpy.testing" target="numpy.testing.decorators" />
+    <edge source="numpy.testing" target="numpy.testing.nosetester" />
+    <edge source="numpy.testing" target="numpy.testing.utils" />
+    <edge source="numpy.testing" target="numpy.testing.numpytest" />
+    <edge source="collections" target="heapq" />
+    <edge source="scipy.spatial.ckdtree" target="scipy.spatial.kdtree" />
+    <edge source="unittest" target="unittest.case" />
+    <edge source="unittest" target="unittest.signals" />
+    <edge source="unittest" target="unittest.loader" />
+    <edge source="unittest" target="unittest.runner" />
+    <edge source="pygraphviz.agraph" target="pygraphviz.graphviz" />
+    <edge source="pygraphviz.agraph" target="subprocess" />
+    <edge source="IPython.utils.warn" target="IPython.utils.io" />
+    <edge source="textwrap" target="string" />
+    <edge source="networkx.algorithms.link_analysis" target="networkx.algorithms.link_analysis.pagerank_alg" />
+    <edge source="matplotlib.font_manager" target="matplotlib.ft2font" />
+    <edge source="xml.parsers.expat" target="pyexpat.model" />
+    <edge source="xml.parsers.expat" target="pyexpat.errors" />
+    <edge source="matplotlib.delaunay" target="matplotlib.delaunay.interpolate" />
+    <edge source="matplotlib.delaunay" target="matplotlib.delaunay.triangulate" />
+    <edge source="numpy.matrixlib" target="numpy.matrixlib.defmatrix" />
+    <edge source="IPython.utils.sysinfo" target="platform" />
+    <edge source="scipy.sparse.linalg" target="scipy.sparse.linalg.dsolve" />
+    <edge source="scipy.sparse.linalg" target="scipy.sparse.linalg.eigen.arpack.arpack" />
+    <edge source="scipy.sparse.linalg" target="scipy.sparse.linalg.eigen" />
+    <edge source="scipy.sparse.linalg" target="scipy.sparse.linalg.interface" />
+    <edge source="scipy.sparse.linalg" target="scipy.sparse.linalg.isolve" />
+    <edge source="UserDict" target="_abcoll" />
+    <edge source="IPython.lib" target="IPython.lib.security" />
+    <edge source="IPython.utils.PyColorize" target="optparse" />
+    <edge source="IPython.utils.PyColorize" target="token" />
+    <edge source="IPython.utils.PyColorize" target="StringIO" />
+    <edge source="unittest.loader" target="unittest.suite" />
+    <edge source="socket" target="_socket" />
+    <edge source="socket" target="_ssl" />
+    <edge source="Image" target="_imaging" />
+    <edge source="Image" target="ImagePalette" />
+    <edge source="Image" target="ImageMode" />
+    <edge source="matplotlib.tri" target="matplotlib.delaunay" />
+    <edge source="matplotlib.tri" target="matplotlib.tri.triangulation" />
+    <edge source="IPython.external.Itpl" target="IPython.external.Itpl._Itpl" />
+    <edge source="os" target="UserDict" />
+    <edge source="os" target="copy_reg" />
+    <edge source="os" target="posixpath" />
+    <edge source="os" target="errno" />
+    <edge source="scipy.linalg" target="scipy.linalg.decomp_cholesky" />
+    <edge source="scipy.linalg" target="scipy.linalg.matfuncs" />
+    <edge source="scipy.linalg" target="scipy.linalg.cblas" />
+    <edge source="scipy.linalg" target="scipy.linalg.decomp_qr" />
+    <edge source="scipy.linalg" target="scipy.linalg.lapack" />
+    <edge source="scipy.linalg" target="scipy.linalg.linalg_version" />
+    <edge source="scipy.linalg" target="scipy.linalg.flinalg" />
+    <edge source="scipy.linalg" target="scipy.linalg.decomp_schur" />
+    <edge source="scipy.linalg" target="scipy.linalg.clapack" />
+    <edge source="scipy.linalg" target="scipy.linalg._flinalg" />
+    <edge source="scipy.linalg" target="scipy.linalg.decomp" />
+    <edge source="scipy.linalg" target="scipy.linalg.decomp_lu" />
+    <edge source="scipy.linalg" target="scipy.linalg.basic" />
+    <edge source="scipy.linalg" target="scipy.linalg.blas" />
+    <edge source="scipy.linalg" target="scipy.linalg.flapack" />
+    <edge source="scipy.optimize.nonlin" target="scipy" />
+    <edge source="scipy.optimize.nonlin" target="scipy.lib.blas" />
+    <edge source="scipy.optimize" target="scipy.optimize._minpack" />
+    <edge source="scipy.optimize" target="scipy.optimize.lbfgsb" />
+    <edge source="scipy.optimize" target="scipy.optimize._slsqp" />
+    <edge source="scipy.optimize" target="scipy.optimize.linesearch" />
+    <edge source="scipy.optimize" target="scipy.optimize.cobyla" />
+    <edge source="scipy.optimize" target="scipy.optimize.slsqp" />
+    <edge source="scipy.optimize" target="scipy.optimize._cobyla" />
+    <edge source="scipy.optimize" target="scipy.optimize.minpack" />
+    <edge source="scipy.optimize" target="scipy.optimize.zeros" />
+    <edge source="scipy.optimize" target="scipy.optimize.tnc" />
+    <edge source="scipy.optimize" target="scipy.optimize.moduleTNC" />
+    <edge source="scipy.optimize" target="scipy.optimize._zeros" />
+    <edge source="scipy.optimize" target="scipy.optimize._lbfgsb" />
+    <edge source="scipy.optimize" target="scipy.optimize.nonlin" />
+    <edge source="scipy.optimize" target="scipy.optimize._nnls" />
+    <edge source="IPython.utils.text" target="locale" />
+    <edge source="IPython.utils.text" target="shutil" />
+    <edge source="IPython.utils.text" target="__main__" />
+    <edge source="scipy.sparse" target="scipy.sparse.dok" />
+    <edge source="scipy.sparse" target="scipy.sparse.compressed" />
+    <edge source="scipy.sparse" target="scipy.sparse.construct" />
+    <edge source="scipy.sparse" target="scipy.sparse.sputils" />
+    <edge source="scipy.sparse" target="scipy.sparse.csc" />
+    <edge source="scipy.sparse" target="scipy.sparse.base" />
+    <edge source="scipy.sparse" target="scipy.sparse.csgraph" />
+    <edge source="scipy.sparse" target="scipy.sparse.linalg" />
+    <edge source="scipy.sparse" target="scipy.sparse.data" />
+    <edge source="scipy.sparse" target="scipy.sparse.csr" />
+    <edge source="scipy.sparse" target="scipy.sparse.lil" />
+    <edge source="scipy.sparse" target="scipy.sparse.bsr" />
+    <edge source="scipy.sparse" target="scipy.sparse.dia" />
+    <edge source="scipy.sparse" target="scipy.sparse.extract" />
+    <edge source="scipy.sparse" target="scipy.sparse.coo" />
+    <edge source="httplib" target="mimetools" />
+    <edge source="scipy.sparse.linalg.dsolve.umfpack" target="scipy.sparse.linalg.dsolve.umfpack.umfpack" />
+    <edge source="scipy.sparse.linalg.dsolve.umfpack" target="scipy.sparse.linalg.dsolve.umfpack._umfpack" />
+    <edge source="numpy.fft" target="numpy.fft.info" />
+    <edge source="numpy.fft" target="numpy.fft.fftpack" />
+    <edge source="numpy.fft" target="numpy.fft.helper" />
+    <edge source="numpy.polynomial.chebyshev" target="numpy.polynomial.polyutils" />
+    <edge source="mimetools" target="rfc822" />
+    <edge source="SimpleCV" target="SimpleCV.EXIF" />
+    <edge source="SimpleCV" target="SimpleCV.Features.Features" />
+    <edge source="SimpleCV" target="SimpleCV.ImageClass" />
+    <edge source="SimpleCV" target="cv2" />
+    <edge source="SimpleCV" target="SimpleCV.base" />
+    <edge source="SimpleCV" target="Queue" />
+    <edge source="SimpleCV" target="SimpleCV.Segmentation" />
+    <edge source="SimpleCV" target="SimpleCV.Features.Detection" />
+    <edge source="SimpleCV" target="SimpleCV.Stream" />
+    <edge source="SimpleCV" target="SimpleCV.MachineLearning" />
+    <edge source="xml.sax" target="xml.sax._exceptions" />
+    <edge source="xml.sax" target="xml.sax.saxutils" />
+    <edge source="xml.sax" target="xml.sax.handler" />
+    <edge source="scipy.linalg.decomp_schur" target="scipy.linalg.misc" />
+    <edge source="scipy.special" target="scipy.special.orthogonal_eval" />
+    <edge source="scipy.special" target="scipy.special._cephes" />
+    <edge source="scipy.special" target="scipy.special.basic" />
+    <edge source="scipy.special" target="scipy.special.spfun_stats" />
+    <edge source="scipy.misc.pilutil" target="Image" />
+    <edge source="scipy.misc.pilutil" target="ImageFilter" />
+    <edge source="genericpath" target="stat" />
+    <edge source="IPython.core.prompts" target="socket" />
+    <edge source="IPython.core.formatters" target="IPython.lib.pretty" />
+    <edge source="IPython.core.formatters" target="abc" />
+    <edge source="matplotlib.ticker" target="decimal" />
+    <edge source="IPython.lib.security" target="getpass" />
+    <edge source="scipy.sparse.sparsetools.csgraph" target="_csgraph" />
+    <edge source="urllib2" target="httplib" />
+    <edge source="IPython.config.loader" target="IPython.external.argparse" />
+    <edge source="IPython.config.loader" target="IPython.utils.warn" />
+    <edge source="IPython.config.loader" target="IPython.utils.text" />
+    <edge source="IPython.config.loader" target="IPython.utils.py3compat" />
+    <edge source="matplotlib.textpath" target="urllib" />
+    <edge source="matplotlib.textpath" target="matplotlib.dviread" />
+    <edge source="IPython.utils.py3compat" target="functools" />
+    <edge source="matplotlib.pyparsing" target="xml" />
+    <edge source="matplotlib.pyparsing" target="sre_constants" />
+  </graph>
 </graphml>
